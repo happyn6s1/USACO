@@ -8,7 +8,7 @@ using namespace std;
     char B[8][8];
     bool possible[100];
 //bool M[7][7]={false};   
-//adding
+//adding from local
 int nos=0;
 string s;
 /*
